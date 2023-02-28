@@ -1,4 +1,15 @@
+# Original
 venv
 publish
 .idea
 setup_template.py
+
+# Data
+dist/
+data/
+*.csv
+*.tar.gz
+*.tar
+*.zip
+*.bin
+*.egg-info/

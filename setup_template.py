@@ -8,16 +8,15 @@ setup(
   description = 'Extract principal FFT components for features generation',
   author = 'Simone Salerno',
   author_email = 'eloquentarduino@gmail.com',
-  url = 'https://github.com/eloquentarduino/principal-fft',
-download_url = 'https://github.com/eloquentarduino/principal-fft/dist/VERSION.tar.gz',
+  url='https://github.com/oliversas/principal-fft-sklearn',
   keywords = [
     'ML',
-    'sklearn',
+    'scikit-learn',
     'machine learning'
   ],
   install_requires=[
     'numpy',
-    'sklearn'
+    'scikit-learn'
   ],
   classifiers=[
     'Development Status :: 5 - Production/Stable',
